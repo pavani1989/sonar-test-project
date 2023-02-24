@@ -42,7 +42,6 @@ pipeline {
 						            "work_notes": "Update this to work_notes",
 						            "start_date": "2022-01-05 11:59:59",
 						            "end_date": "2022-01-08 11:59:59",
-							    "chg_model":"007c4001c343101035ae3f52c1d3aeb2",
 							    "type":"normal"
 						      }
 						}""")
